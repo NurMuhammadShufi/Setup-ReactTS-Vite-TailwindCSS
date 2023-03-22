@@ -5,7 +5,7 @@ Prerequisite :
 2. If you haven't already, visit the website https://nodejs.org/en for installation
 
 Steps :
-1. Clone this repository, `git clone https://github.com/NurMuhammadShufi/setup-reactTs-tailwindcss-vitejs`
+1. Clone this repository, `git clone https://github.com/NurMuhammadShufi/Setup-ReactTS-Vite-TailwindCSS.git`
 2. `cd to [folder]` Install All the Dependencies, `npm install` or `npm i`
 3. Running the project, `npm run dev`
 4. Just it, goodluck & thankyou :)
